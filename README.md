@@ -24,6 +24,7 @@ The user can continue testing multiple values.
 ## Example
 
 Input: 123
+
 Output: Detected type : Integer
 
 
