@@ -23,7 +23,7 @@ The user can continue testing multiple values.
 
 ## Example
 
-Input: 123. 
+Input: 123<br>
 Output: Detected type : Integer
 
 
