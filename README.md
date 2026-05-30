@@ -26,5 +26,5 @@ The user can continue testing multiple values.
 Input: 123
 Output: Detected type : Integer
 
-##Author
+#Author
 Made by Naitik while learning Python.
